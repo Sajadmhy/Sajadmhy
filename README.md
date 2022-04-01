@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sajadmhy
 - 👀 I’m interested in becoming a fullstack JS developer.
-- 🌱 I’m currently learning back end development at freecodecamp.
+- 🌱 I’m currently learning front end development at The Odin Project.
 - 💞️ I’m looking to collaborate on any beginner friendly project.
 - 📫 You can reach me at https://twitter.com/sajadmhy or https://www.linkedin.com/in/sajadmhy/ .
 
