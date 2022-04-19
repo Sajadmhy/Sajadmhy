@@ -53,17 +53,15 @@
       />
       <br /><strong>Bootstrap</strong>
     </td>
-      
-      <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
-        src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+        src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/tailwind-css.svg"
         width="48"
         height="48"
         alt="Tailwind"
       />
       <br /><strong>Tailwind</strong>
-    </td>
-      
+  </td>  
   </tr>
   <tr>
     <td align="center" height="108" width="108">
