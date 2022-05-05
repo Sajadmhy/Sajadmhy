@@ -1,7 +1,9 @@
 # 👋 Hey there
 
 <div align="justify">
-    My name is Sajad and I'm a Full Stack Developer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
+    My name is Sajad and , I'm a front-end developer with a passion for solving new challenges and creating customercentric services. I love learning new technologies
+and enjoy making a smooth experience for the end-user.
+I'm a graduate of The Odin Project BootCamp which taught me about Full Stack JavaScript development.
 </div>
 
 # 🔧 Technologies & Tools
