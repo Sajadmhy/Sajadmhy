@@ -1,7 +1,7 @@
 # 👋 Hey there
 
 <div align="justify">
-    My name is Sajad and , I'm a front-end developer with a passion for solving new challenges and creating customer-centric services. I love learning new technologies
+    My name is Sajad and I'm a front-end developer with a passion for solving new challenges and creating customer-centric services. I love learning new technologies
 and enjoy making a smooth experience for the end-user.
 I'm a graduate of The Odin Project BootCamp which taught me about Full Stack JavaScript development.
 </div>
