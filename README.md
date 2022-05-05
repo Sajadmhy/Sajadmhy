@@ -6,7 +6,7 @@ and enjoy making a smooth experience for the end-user.
 I'm a graduate of The Odin Project BootCamp which taught me about Full Stack JavaScript development.
 </div>
 
-# 🔧 Technologies & Tools
+# 🔧 Front End Technologies
 
 <table>
   <tr>
@@ -74,6 +74,12 @@ I'm a graduate of The Odin Project BootCamp which taught me about Full Stack Jav
       <br /><strong>Tailwind</strong>
   </td>  
   </tr>
+</table>
+
+
+# 🔧 Back End Technologies
+
+<table>
   <tr>
     <td align="center" height="108" width="108">
       <img
@@ -111,6 +117,13 @@ I'm a graduate of The Odin Project BootCamp which taught me about Full Stack Jav
       />
       <br /><strong>PostgreSQL</strong>
     </td>
+    
+  </tr>
+</table>
+
+# 🔧 Others
+<table>
+  <tr>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
