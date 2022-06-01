@@ -69,9 +69,9 @@ I'm a graduate of The Odin Project BootCamp which taught me about Full Stack Jav
         src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/tailwind-css.svg"
         width="48"
         height="48"
-        alt="Tailwind"
+        alt="TailwindCSS"
       />
-      <br /><strong>Tailwind</strong>
+      <br /><strong>TailwindCSS</strong>
   </td> 
    <td align="center" height="108" width="108">
   <img
