@@ -37,6 +37,15 @@ I'm a graduate of The Odin Project BootCamp which taught me about Full Stack Jav
       />
       <br /><strong>JavaScript</strong>
       </td>
+       <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"
+        width="48"
+        height="48"
+        alt="TypeScript"
+      />
+      <br /><strong>TypeScript</strong>
+      </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
@@ -44,26 +53,17 @@ I'm a graduate of The Odin Project BootCamp which taught me about Full Stack Jav
         height="48"
         alt="React"
       />
-      <br /><strong>React</strong>
+      <br /><strong>React.js</strong>
       </td>
       <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+        src="https://www.datocms-assets.com/205/1648820117-nextjs.svg"
         width="48"
         height="48"
-        alt="Redux"
+        alt="Next.js"
       />
-      <br /><strong>Redux</strong>
-      </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
-        width="48"
-        height="48"
-        alt="Bootstrap"
-      />
-      <br /><strong>Bootstrap</strong>
-    </td>  
+      <br /><strong>Next.js</strong>
+      </td>  
     <td align="center" height="108" width="108">
       <img
         src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/tailwind-css.svg"
@@ -72,7 +72,16 @@ I'm a graduate of The Odin Project BootCamp which taught me about Full Stack Jav
         alt="Tailwind"
       />
       <br /><strong>Tailwind</strong>
-  </td>  
+  </td> 
+   <td align="center" height="108" width="108">
+  <img
+    src="https://mui.com/static/logo.png"
+    width="48"
+    height="48"
+    alt="MaterialUI"
+  />
+  <br /><strong>MaterialUI</strong>
+  </td> 
   </tr>
 </table>
 
@@ -95,10 +104,19 @@ I'm a graduate of The Odin Project BootCamp which taught me about Full Stack Jav
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
         width="48"
         height="48"
-        alt="Express"
+        alt="Express.js"
       />
-      <br /><strong>Express</strong>
+      <br /><strong>Express.js</strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://docs.nestjs.com/assets/logo-small.svg"
+        width="48"
+        height="48"
+        alt="Nest.js"
+      />
+      <br /><strong>Nest.js</strong>
+    </td>  
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
@@ -107,16 +125,7 @@ I'm a graduate of The Odin Project BootCamp which taught me about Full Stack Jav
         alt="MongoDB"
       />
       <br /><strong>MongoDB</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-        width="48"
-        height="48"
-        alt="PostgreSQL"
-      />
-      <br /><strong>PostgreSQL</strong>
-    </td>
+      </td>
     
   </tr>
 </table>
